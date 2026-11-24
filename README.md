@@ -1,0 +1,3 @@
+Quadratic / Square Root Voting
+
+What are quadratic voting and square-root voting and what problems are they trying to solve?  Can they completely solve these problems, why or why not?  Can these voting methods be gamified or create perverse incentives?  What would happen if one could cast "negative" as well as "positive" votes in this context?  Does the utility of these method change with the number of candidates?  
