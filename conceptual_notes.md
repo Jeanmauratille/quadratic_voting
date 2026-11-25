@@ -1,8 +1,16 @@
 QUESTIONS:
+What are quadratic voting and square-root voting and what problems are they trying to solve?  
+- Square Root Voting:
+- Quadratic Voting:
+Can they completely solve these problems, why or why not?  
+- Square Root Voting: more efficient at preventing governance attacks   
+- Quadratic Voting: hard to explain, requires explicit payment
+What would happen if one could cast "negative" as well as "positive" votes in this context?  Does the utility of these method change with the number of candidates?
+- Square Root Voting:
+- Quadratic Voting:
 Can they completely solve these problems, why or why not?
-- Square Root Voting: more efficient at preventing governance attacks but still susceptible to the Sybil Attack 
-- Quadratic Voting: hard to explain, requires explicit payment 
-
+- Square Root Voting: susceptible to the Sybil Attack
+- Quadratic Voting:
 
 SOURCES & DETAILED NOTES:
 
